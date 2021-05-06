@@ -39,3 +39,4 @@ function add_item() {
     htmldata = htmldata + "</ol>"
     document.getElementById("display_menu").innerhtml = htmldata;
 }
+}
